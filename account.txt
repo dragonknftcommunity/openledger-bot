@@ -1,7 +1,7 @@
-token=
-workerID=z
-id=
-ownerAddress=
+token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhZGRyZXNzIjoiMHgxMDRjNmM1ZGI4NGM5NTNlNDhlMWY3YjljNjE5ZDkyNzIyZmFiYTAyIiwiaWQiOjAsImV4cCI6MTc2ODU0MDYxN30.f0IXJvHHwYW7JR0TxVm1IoladMlJoskZgl69P69S0UM
+workerID=MHgxMDRjNmM1ZEI4NEM5NTNlNDhlMWY3YjljNjE5ZDkyNzIyRkFiQTAy
+id=eebb1754-17ce-4489-b3e1-0bb7b959d3cb
+ownerAddress=0x104c6c5dB84C953e48e1f7b9c619d92722FAbA02
 
 token=
 workerID=
